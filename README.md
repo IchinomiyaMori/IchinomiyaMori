@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IchinomiyaMori
+- 👋 Hi, I’m Ichinomiya Mori call me Moriiii
 - 👀 I’m interested in Javascipt / Typescript
 - 🌱 I’m currently learning Typescript & also React too
 
